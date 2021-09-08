@@ -1,25 +1,28 @@
-## Welcome to GitHub Pages
+##Welcome to my first page on Github
 
-You can use the [editor on GitHub](https://github.com/IrvingEcheverria/the-new-it-guy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can click on this [link](https://www.linkedin.com/in/irvinggessu/?locale=en_US) to know more about me in my Linkedin page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And you also click [here](https://twitter.com/irvinggessu) to get tou know me better on Twiiter (I barely use this social network).
 
-### Markdown
+### This is a test page for my Activity 1.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Im currently working in this.
+Ill leave the text below as it is, just going to change a little bit to test it out.
 
 ```markdown
 Syntax highlighted code block
 
-# Título 1
+# Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Bulleted (If Im not wrong, this is "viñeta" in spanish)
+- Viñeta 1
 
 1. Numbered
-2. List
+2. Two
+3. Three
+4. And so on
 
 **Bold** and _Italic_ and `Code` text
 
@@ -30,7 +33,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IrvingEcheverria/the-new-it-guy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Imma leave this as it is because I think I will need it later: "[repository settings](https://github.com/IrvingEcheverria/the-new-it-guy/settings/pages)" tal cual, y lo que sigue también:
+The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
